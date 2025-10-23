@@ -1,4 +1,4 @@
-# 🌐 AI 기술 트렌드 분석 에이전트 시스템
+# AI 기술 트렌드 분석 에이전트 시스템
 
 ## Overview
 
@@ -42,7 +42,7 @@
 - **risk_opportunity**: 리스크/기회 분석 (SWOT, 대응 전략)
 - **final_report**: 최종 보고서 (Markdown/PDF 파일 경로)
 
-## 🛠️ 기술 스택
+## 기술 스택
 
 - **LangGraph**: 에이전트 워크플로우 orchestration
 - **LangChain**: LLM 통합 및 체인 구성
@@ -50,7 +50,7 @@
 - **Tavily API**: 웹 검색 및 뉴스 수집
 - **Pydantic**: 데이터 검증 및 스키마 정의
 
-## 📈 워크플로우
+## 워크플로우
 
 ```
 [입력] 주제, 시간범위, 검색 옵션
